@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/NotoriousPyro",
   "VITE_SEO_SITE_NAME": "SEX",
   "VITE_SEO_SITE_DESCRIPTION": "Solana EXchange perps platform",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/sex-9801/",
+  "VITE_SEO_SITE_URL": "https://sexonsol.com",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_GB",
   "VITE_SEO_TWITTER_HANDLE": "@NotoriousPyro",
@@ -34,5 +34,5 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_AVAILABLE_LANGUAGES": "en",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "1",
-  "VITE_TRADING_VIEW_COLOR_CONFIG": ""
+  "VITE_TRADING_VIEW_COLOR_CONFIG": "{\"upColor\":\"#00C896\",\"downColor\":\"#F7525F\",\"pnlUpColor\":\"#00C896\",\"pnlDownColor\":\"#F7525F\",\"chartBG\":\"#1f2414\"}"
 };
